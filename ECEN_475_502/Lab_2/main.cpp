@@ -14,6 +14,7 @@ Due Date: 10/13/2020
 #define H 0
 #define V 1
 
+//Hello
 class dim_t{ //Class used to store a set of dimentions.
     public:
         int size[2]; //(Width, Height)
